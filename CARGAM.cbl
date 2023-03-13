@@ -34,7 +34,7 @@
        01  WS-VARIABLES.
            05  WS-OPCION              PIC 9.
            05  WS-INPUT-IMPAR         PIC 9.
-           05  WS-RESIDUO             PIC 9.
+           05  WS-RESIDUO             PIC 99.
            05  WS-NEW-ESTADO          PIC X.
            05  WS-NEW-MSJ             PIC X(50).
 
